@@ -1,0 +1,6 @@
+{
+    "api_key" : "Send_In_Blue_API_Key_Here",
+    "html_template_path" : "./EmailTemplate.html",
+    "emails_file_path" : "./Emails.csv",
+    "email_status_path" : "./"
+}

@@ -1,0 +1,6 @@
+{
+    "api_key" : "your_key_here",
+    "html_template_path" : "./EmailTemplate.html",
+    "emails_file_path" : "./Emails.csv",
+    "email_status_path" : "./"
+}

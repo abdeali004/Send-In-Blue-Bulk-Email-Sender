@@ -1,0 +1,5 @@
+*.zip
+__*
+build
+dist
+*.spec
